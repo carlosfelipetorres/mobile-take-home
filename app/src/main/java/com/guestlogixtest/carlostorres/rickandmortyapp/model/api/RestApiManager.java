@@ -9,6 +9,7 @@ import retrofit.converter.GsonConverter;
 public class RestApiManager
 {
     private RickAndMortyApi rickAndMortyApi;
+    
     public static final String BASE_URL = "https://rickandmortyapi.com/api";
 
     public RickAndMortyApi getRickAndMortyApi()
