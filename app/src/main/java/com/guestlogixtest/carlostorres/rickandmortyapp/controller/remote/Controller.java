@@ -17,7 +17,6 @@ import java.net.URL;
 import java.util.List;
 
 public class Controller {
-    private static final String TAG = Controller.class.getSimpleName();
     private EpisodeCallbackListener episodeCallbackListener;
     private CharacterCallbackListener characterCallbackListener;
 
