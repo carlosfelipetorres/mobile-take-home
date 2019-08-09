@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/lealcolombia2/.android/build-cache/c02ecc69f964b6f625f571f681b0fc0e3628ca35/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="3fec43a847d8788b7642a1932e6266ef8bdab169">
+        <dex dex="/Users/lealcolombia2/RestMVC/app/build/intermediates/pre-dexed/debug/classes_3f4c763384aa7609d500456fd8e4cbce119405bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lealcolombia2/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/Users/lealcolombia2/RestMVC/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0_7375fe7192a4db466925fe814baf76cca4ce8aec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lealcolombia2/.android/build-cache/2f54d8fa120e5729b6377e1f24b3275c0c5a2c96/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7b15ada2209f82b0249f331cb7ec70394dc2e828">
+        <dex dex="/Users/lealcolombia2/RestMVC/app/build/intermediates/pre-dexed/debug/classes_a2eae7431e6c9dccb37fc2f4c274ba464e73935a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lealcolombia2/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/annotations/4.9.0/ccdd6bc8b4f3c001fbddec29ecddd515a13203c4/annotations-4.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ccdd6bc8b4f3c001fbddec29ecddd515a13203c4">
+        <dex dex="/Users/lealcolombia2/RestMVC/app/build/intermediates/pre-dexed/debug/annotations-4.9.0_a41bf1a765bd18bf13127a02ced677d529a6e429.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lealcolombia2/.android/build-cache/289645bb170baa3a6b70e0a6a74630236c88f931/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="b99e6cdcb85894164e1a06145a5f6b78e3cb7270">
+        <dex dex="/Users/lealcolombia2/RestMVC/app/build/intermediates/pre-dexed/debug/classes_37849057feb5d18bd5570f58da0199ee60ee02c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lealcolombia2/.android/build-cache/1705ca9289da02a9b18e01570addd7db1f81ffbe/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="19e63f5c3afd0a4379bfb830816bb8a9661aba75">
+        <dex dex="/Users/lealcolombia2/RestMVC/app/build/intermediates/pre-dexed/debug/classes_1b72c034cb29b0efb7a5dab0decf030555992a94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lealcolombia2/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/28.0.0/ed73f5337a002d1fd24339d5fb08c2c9d9ca60d8/support-annotations-28.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ed73f5337a002d1fd24339d5fb08c2c9d9ca60d8">
+        <dex dex="/Users/lealcolombia2/RestMVC/app/build/intermediates/pre-dexed/debug/support-annotations-28.0.0_61de7813c3f1c8374f4a9ea6bbd27af8d3a24b43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lealcolombia2/.android/build-cache/d8689460e2c5d2ff94371cce0acabed1f424362b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="afb9ac89f722ac83466f1bb5f2135010b7f05f32">
+        <dex dex="/Users/lealcolombia2/RestMVC/app/build/intermediates/pre-dexed/debug/classes_76fc1ea2c960234cf4fb3f5a232331305f93a786.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lealcolombia2/.android/build-cache/db867c1d9763047b9a42ecb7058fd28c8c425dad/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="b05ce31f5d87a7f16cdbdbc5e3a7cf2190bf0118">
+        <dex dex="/Users/lealcolombia2/RestMVC/app/build/intermediates/pre-dexed/debug/classes_1cf3e8b5cc80740bc911696c885e6c9c8f8e39f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lealcolombia2/.android/build-cache/12c5c6fa2dd4e68e29760dc385f1cafd7790b523/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="70bf65523dc3db43f6c3749931976585a8f4dd20">
+        <dex dex="/Users/lealcolombia2/RestMVC/app/build/intermediates/pre-dexed/debug/classes_038521d95fc30ad794e2dd9bd78ae3c450303116.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lealcolombia2/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.7.5/7a15a7db50f86c4b64aa3367424a60e3a325b8f1/okhttp-2.7.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7a15a7db50f86c4b64aa3367424a60e3a325b8f1">
+        <dex dex="/Users/lealcolombia2/RestMVC/app/build/intermediates/pre-dexed/debug/okhttp-2.7.5_f1db71b408caea6a048f6de76bcfffcb7960512f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lealcolombia2/.android/build-cache/7c3b7e3ed8974cb029926d8054cfb684ca4ab781/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="5b049b5525643f62ebe162013dae975c7e74dcc5">
+        <dex dex="/Users/lealcolombia2/RestMVC/app/build/intermediates/pre-dexed/debug/classes_053203c35825d46ab53b8a5b0b48691be3acde9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lealcolombia2/.android/build-cache/b91933a9822816654f666f117661b1846438257e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="12c6a298b609e825ad3994a96f9e61b3aac7046f">
+        <dex dex="/Users/lealcolombia2/RestMVC/app/build/intermediates/pre-dexed/debug/classes_a6111703b13342f4cdacee3f68c7e82f72b17218.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lealcolombia2/.android/build-cache/6c1c8c37dc90a14f6ec9b9fa51aa37f91d49b505/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="be31b531309a9196873ba4ac96ea9484ca0ecad6">
+        <dex dex="/Users/lealcolombia2/RestMVC/app/build/intermediates/pre-dexed/debug/classes_0e3ab970c6a3dd5fa2e22ace59b9289db0102769.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lealcolombia2/.android/build-cache/6cd87fe12b5d90d3b975ede7280e660f3e037655/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="b15c6ded887ad967e20bb335c1a121b253c04dce">
+        <dex dex="/Users/lealcolombia2/RestMVC/app/build/intermediates/pre-dexed/debug/classes_7f8143fa8dc86655b7bb9733a219d8d43f7ba844.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lealcolombia2/.android/build-cache/43480091860ff006e0da51ca36c3fdb3bd22b2fa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e9b03dd36d3c106574e2cdeb8edd543bd5e51d0e">
+        <dex dex="/Users/lealcolombia2/RestMVC/app/build/intermediates/pre-dexed/debug/classes_b22c36ae3923bc682e2d45a4ad32895519d6ab62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lealcolombia2/.android/build-cache/c14b36da6a7f428dcdf4e3d47468ce618f37aef1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="8510837b7e70ee5f12cf2a20dd0a1b3d23a0cdeb">
+        <dex dex="/Users/lealcolombia2/RestMVC/app/build/intermediates/pre-dexed/debug/classes_9d0bb6eb16915110d0ae693aba7c56658153bab9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lealcolombia2/.gradle/caches/modules-2/files-2.1/com.android.support.constraint/constraint-layout-solver/1.1.3/bde0667d7414c16ed62d3cfe993cff7f9d732373/constraint-layout-solver-1.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="bde0667d7414c16ed62d3cfe993cff7f9d732373">
+        <dex dex="/Users/lealcolombia2/RestMVC/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.1.3_1d9aebba2a6c2c18a0de85f950c0c60618264bf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lealcolombia2/.android/build-cache/dbb4d80f6039e50023e5130940216979bcc3b451/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2e85417e7990657be8fe07d63fd5278d82eb960e">
+        <dex dex="/Users/lealcolombia2/RestMVC/app/build/intermediates/pre-dexed/debug/classes_96a5371e9bcf48d920a366c784c52a544dc7d3d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lealcolombia2/.android/build-cache/291c9b42ca4881fc5b6cfb4f6e2b84a682dbe99f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a69067467c7e4d5c810ea19ee43cbfab00a292b4">
+        <dex dex="/Users/lealcolombia2/RestMVC/app/build/intermediates/pre-dexed/debug/classes_4fed276169be14a501d835fa5a83b9ad4bdb43cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lealcolombia2/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.1/e55b70d1f5620db124b3e85a7f4bdc7bd48d9f95/common-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e55b70d1f5620db124b3e85a7f4bdc7bd48d9f95">
+        <dex dex="/Users/lealcolombia2/RestMVC/app/build/intermediates/pre-dexed/debug/common-1.1.1_f6516df8e5709e60364ff92ae87e010067f06605.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lealcolombia2/.android/build-cache/936c153e57123d837570abb53f9f18c6db0f2cba/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a6d4c3181151ffbcd67897e94c688f6c200c5bec">
+        <dex dex="/Users/lealcolombia2/RestMVC/app/build/intermediates/pre-dexed/debug/classes_d3b75bc3d0a10adaa57399e5a143494b4d223c0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lealcolombia2/.android/build-cache/2e5d3c87a5b9f14e2d847a0f59f643884cf5a2b4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9335f203759bfcda4b6ea729dddcf06c07150d3f">
+        <dex dex="/Users/lealcolombia2/RestMVC/app/build/intermediates/pre-dexed/debug/classes_ab3ef4566bb70f5693d8a195aeaddedfc2cb0a14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lealcolombia2/.android/build-cache/7d299659fe0572a46d816483ea2eb2edee376096/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="de467de1baba33a922246561f87c0a910206d1ff">
+        <dex dex="/Users/lealcolombia2/RestMVC/app/build/intermediates/pre-dexed/debug/classes_9e01733d63491aa3171cbba120f7fa2107dd32bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lealcolombia2/.android/build-cache/8adbb81b3fc03d500fb4ea5bf0e1a6682e1cc4a0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ef698b3c8609d86cac06834429a39ef417d5b57a">
+        <dex dex="/Users/lealcolombia2/RestMVC/app/build/intermediates/pre-dexed/debug/classes_0e04578590b60b65c98635233cee91ccfac5ed29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lealcolombia2/.android/build-cache/d3ead7842696f6f4ce55de9ee32fe9806b3bf63e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ba4c894fd0a3d36e8f06f4947ab639140e668088">
+        <dex dex="/Users/lealcolombia2/RestMVC/app/build/intermediates/pre-dexed/debug/classes_05e2d267595efe7f66b31afda2096b9e0403ceb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lealcolombia2/.android/build-cache/d785764fbc49a64d72b8014ed83fad05898b1209/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="b9aff7eec7a0b091e460e44b8bb0bf64cadc0844">
+        <dex dex="/Users/lealcolombia2/RestMVC/app/build/intermediates/pre-dexed/debug/classes_2799079e9b48340bc5a132a69b91a630a5361c9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lealcolombia2/.android/build-cache/7b4d04cf29c9f954fc87e7ea14516e986079df81/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f77c6cfaee7ee7c8844d5340e47a38c3fdea7060">
+        <dex dex="/Users/lealcolombia2/RestMVC/app/build/intermediates/pre-dexed/debug/classes_fbdc91fbcd8a0c511703beec603fc069688ffb9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lealcolombia2/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/lealcolombia2/RestMVC/app/build/intermediates/pre-dexed/debug/okio-1.6.0_eb21a0f093eaa22c5dac75186109ae9f1be1ec38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lealcolombia2/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/disklrucache/4.9.0/cbb185635e8f265d6391c7d43118d3856574dc3a/disklrucache-4.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="cbb185635e8f265d6391c7d43118d3856574dc3a">
+        <dex dex="/Users/lealcolombia2/RestMVC/app/build/intermediates/pre-dexed/debug/disklrucache-4.9.0_a1656feca3752b860aebdb8dec1a195632bee245.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lealcolombia2/.android/build-cache/6138996c2930b94532ede9095baf0b3ecd0a0140/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="b1173d9f45ae18f2e0dc8ec42d15fa5b95c391d1">
+        <dex dex="/Users/lealcolombia2/RestMVC/app/build/intermediates/pre-dexed/debug/classes_6a599a465f7d95d2f5e1572a4ac92d6176dece37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lealcolombia2/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/Users/lealcolombia2/RestMVC/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0_7375fe7192a4db466925fe814baf76cca4ce8aec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lealcolombia2/.android/build-cache/a42f31e373c24690cb08fbaba2f86cbc73c7b8e6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="376a25a3bdce5133262368e85d430aae5bb80c28">
+        <dex dex="/Users/lealcolombia2/RestMVC/app/build/intermediates/pre-dexed/debug/classes_e9ec812a07afd34a6d1cfd6355bda92436a48910.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lealcolombia2/.android/build-cache/b73bea71104eb940c203c02361058c30bd90a9ba/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="221de83c08ed1502286513b4d472d256341e8839">
+        <dex dex="/Users/lealcolombia2/RestMVC/app/build/intermediates/pre-dexed/debug/classes_a138da9f4b43606cd96c79fd68ec9e3e2f9709fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lealcolombia2/.android/build-cache/25eabb8094725eca2834ba7ef34e676b85f7daa9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="49b8af59d5819c80792707bdda93a5c9a917e24c">
+        <dex dex="/Users/lealcolombia2/RestMVC/app/build/intermediates/pre-dexed/debug/classes_2eeb9db7e19e3f66f8d114cba1b95ee81220e816.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lealcolombia2/.android/build-cache/067c986dd0878e563400b5013379077c5f16ef34/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ddfc0d219f43bf3c1e357a55284cbd1000e461bf">
+        <dex dex="/Users/lealcolombia2/RestMVC/app/build/intermediates/pre-dexed/debug/classes_1eef92a0110c11f3217f87aa601062de843f50e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lealcolombia2/.android/build-cache/381563a8069be5c5e7396728f5b8845a3be81b2e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="41b8c7e99024d4288d7dfc709bb72fdaa5fdc32f">
+        <dex dex="/Users/lealcolombia2/RestMVC/app/build/intermediates/pre-dexed/debug/classes_2834bcd9993fddcb9bada80f6c6253a4a25b205b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lealcolombia2/.android/build-cache/dc4cb3beaf06919f8813e9ffdab45c803af25576/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="234e706c7aea09f97738c7830d144d50d240079e">
+        <dex dex="/Users/lealcolombia2/RestMVC/app/build/intermediates/pre-dexed/debug/classes_cab629bac6d20bf355be4f4a16943beb57bf9160.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lealcolombia2/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.2/3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf/gson-2.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
+        <dex dex="/Users/lealcolombia2/RestMVC/app/build/intermediates/pre-dexed/debug/gson-2.8.2_ba3a39e0737eee8422b23dbabc8cff43a3b6cda9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lealcolombia2/.android/build-cache/ce6fc93d172de349dda6363e2e7a9bba2542665b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="fad505737146925636e28753e26523c3a8a03e48">
+        <dex dex="/Users/lealcolombia2/RestMVC/app/build/intermediates/pre-dexed/debug/classes_40b7a529cc10946748bb98d4081c6be98e126fde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lealcolombia2/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.1/207a6efae6a3555e326de41f76bdadd9a239cbce/common-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="207a6efae6a3555e326de41f76bdadd9a239cbce">
+        <dex dex="/Users/lealcolombia2/RestMVC/app/build/intermediates/pre-dexed/debug/common-1.1.1_6e1e3fa0678ba4924effd3da4ba31e816f1cd750.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lealcolombia2/.android/build-cache/2cd2ae75829ff3ad16446b6fce98900868157203/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="925ec89d545e33030131b9470db85e701a8c61a4">
+        <dex dex="/Users/lealcolombia2/RestMVC/app/build/intermediates/pre-dexed/debug/classes_70a1b65e72ea4568e7b055464ac53fbd0d6f377d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lealcolombia2/.gradle/caches/modules-2/files-2.1/com.android.support/collections/28.0.0/c1bcdade4d3cc2836130424a3f3e4182c666a745/collections-28.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="c1bcdade4d3cc2836130424a3f3e4182c666a745">
+        <dex dex="/Users/lealcolombia2/RestMVC/app/build/intermediates/pre-dexed/debug/collections-28.0.0_5a39a97ebc20302726d138baa6d212f7bf5297cb.jar" />
+    </item>
+
+</items>
