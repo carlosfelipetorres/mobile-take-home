@@ -44,8 +44,8 @@ public class CharacterDetailActivity extends AppCompatActivity {
         ImageView image = this.findViewById(R.id.image);
         ImageView imageDead = this.findViewById(R.id.imageDead);
 
-        Glide.with(this).load(current.getImage().replace("\"", "")).into(image);
-        if (current.getStatus().replace("\"", "").equals("Dead")){
+        Glide.with(this).load(current.getImage()).into(image);
+        if (current.getStatus().equals("Dead")){
             imageDead.setVisibility(View.VISIBLE);
         }
 
@@ -58,11 +58,11 @@ public class CharacterDetailActivity extends AppCompatActivity {
         });
 
         Button kill = this.findViewById(R.id.kill);
-        if (current.getStatus().equals("\"Dead\"")) kill.setVisibility(View.GONE);
+        if (current.getStatus().equals("Dead")) kill.setVisibility(View.GONE);
         kill.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                current.setStatus("\"Dead\"");
+                current.setStatus("Dead");
                 current.setEpisodeDead(episode.getEpisode());
                 characterRepository.insert(current);
                 onBackPressed();

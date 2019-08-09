@@ -45,10 +45,10 @@ public class CharactersAdapter extends RecyclerView.Adapter<CharactersAdapter.Ho
     {
         final Character currentCharacter = characters.get(position);
         holder.mName.setText(currentCharacter.getName());
-        holder.mdate.setText(currentCharacter.getCreated());
-        holder.mEpisode.setText("Character: " + currentCharacter.getStatus());
+        holder.mdate.setText(currentCharacter.getSpecies());
+        holder.mEpisode.setText("Status: " + currentCharacter.getStatus());
 
-        Glide.with(holder.itemView.getContext()).load(currentCharacter.getImage().replace("\"", "")).into(holder.mImage);
+        Glide.with(holder.itemView.getContext()).load(currentCharacter.getImage()).into(holder.mImage);
         holder.mItem.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -56,7 +56,7 @@ public class CharactersAdapter extends RecyclerView.Adapter<CharactersAdapter.Ho
             }
         });
 
-        if (currentCharacter.getStatus().replace("\"", "").equals("Dead")){
+        if (currentCharacter.getStatus().equals("Dead")){
             holder.mImageDead.setVisibility(View.VISIBLE);
             holder.mItem.setBackgroundColor(ContextCompat.getColor(holder.itemView.getContext(), R.color.colorAccent));
         } else {
